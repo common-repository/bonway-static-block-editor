@@ -1,0 +1,75 @@
+input.readonly {
+    border: none;
+    width: 100%;
+    z-index: 50;
+}
+
+.bonwaysbe-inputcontainer {
+    position: relative;
+    max-width: 320px;
+}
+
+.bonwaysbe-inputcontainer .copy-btn {
+    background-color: #ccc;
+    background-image: url(../images/copy-regular.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 50%;
+    content: "";
+    cursor: pointer;
+    display: block;
+    height: 25px;
+    line-height: 25px;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 1px;
+    width: 25px;
+    z-index: 100;
+}
+
+.bonwaysbe-inputcontainer .copy-msg {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 #ccc;
+    display: none;
+    opacity: 0;
+    padding: 3px;
+    position: absolute;
+    top: 32px;
+    z-index: 200;
+}
+
+.bonwaysbe-inputcontainer .copy-msg:before {
+    border-bottom: 12px solid #fff;
+    border-left: 12px solid transparent;
+    border-right: 12px solid transparent;
+    border-top: 12px solid transparent;
+    content: "";
+    display: block;
+    position: absolute;
+    right: 17px;
+    top: -23px;
+    z-index: 10;
+}
+
+.bonwaysbe-inputcontainer .copy-msg:after {
+    border-bottom: 13px solid #ccc;
+    border-left: 13px solid transparent;
+    border-right: 13px solid transparent;
+    border-top: 13px solid transparent;
+    content: "";
+    display: block;
+    position: absolute;
+    right: 16px;
+    top: -25px;
+}
+
+.sbe-section__inner .can-copy {
+    margin-bottom: 16px;
+}
+
+.sbe-section__container:not(:last-child) {
+    margin-bottom: 8px;
+}

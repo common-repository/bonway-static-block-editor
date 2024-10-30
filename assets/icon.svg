@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 62 62" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(0.24,0,0,0.24,0,0)">
+        <g id="Container">
+            <g id="Background" transform="matrix(3.16035,0,0,3.62197,-309.971,-297.199)">
+                <rect x="98.081" y="82.055" width="81.004" height="70.68" style="fill:rgb(45,45,45);"/>
+            </g>
+            <g id="Top-left" transform="matrix(1.91739,-2.46519e-32,-2.46519e-32,1.91739,-47.6589,-38.8028)">
+                <path d="M74.924,20.237L24.856,20.237L24.856,70.305" style="fill:rgb(64,135,199);stroke:black;stroke-opacity:0;stroke-width:0.52px;"/>
+            </g>
+            <g id="Top" transform="matrix(7.82709e-17,1.27826,-5.11305,3.13084e-16,359.474,-31.7726)">
+                <path d="M74.924,20.237L24.856,20.237L24.856,70.305" style="fill:rgb(13,84,149);stroke:black;stroke-opacity:0;stroke-width:0.27px;"/>
+            </g>
+            <g id="Bottom" transform="matrix(1.17406e-16,-0.639131,-5.11305,1.92593e-34,359.474,271.764)">
+                <path d="M74.924,20.237L24.856,20.237L24.856,70.305" style="fill:rgb(161,198,232);stroke:black;stroke-opacity:0;stroke-width:0.27px;"/>
+            </g>
+        </g>
+        <g id="Logo">
+            <path id="Container1" serif:id="Container" d="M209.985,208.5C209.726,212.683 206.247,216 202,216L58,216C53.753,216 50.274,212.683 50.015,208.5L209.985,208.5ZM210,207.5L50,207.5L50,73.5L210,73.5L210,207.5ZM142,129.02L62,129.02L62,137.02L142,137.02L142,129.02ZM198,113.02L144,113.02L144,121.02L198,121.02L198,113.02ZM132,113.02L62,113.02L62,121.02L132,121.02L132,113.02ZM198,97.02L170,97.02L170,105.02L198,105.02L198,97.02ZM158,97.02L62,97.02L62,105.02L158,105.02L158,97.02ZM110,81.02L62,81.02L62,89.02L110,89.02L110,81.02ZM198,81.02L122,81.02L122,89.02L198,89.02L198,81.02Z" style="fill:white;"/>
+            <g id="Top1" serif:id="Top" transform="matrix(0.988693,0,0,0.988693,-14.6432,-24.1156)">
+                <path d="M219.121,80.02C223.629,80.063 227.212,83.673 227.212,88.112L227.212,96.709L65.382,96.709L65.382,88.112C65.382,83.673 68.965,80.063 73.474,80.02L219.121,80.02Z" style="fill:white;"/>
+            </g>
+        </g>
+    </g>
+</svg>
